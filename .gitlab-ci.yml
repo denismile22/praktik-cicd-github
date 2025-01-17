@@ -9,7 +9,7 @@ stages:
   # - security
   # - test
   # - deploy
-  # test commit github ke 2
+  # test commit github ke 3
 
 build:
   image: docker:20.10.16
